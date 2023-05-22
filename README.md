@@ -1,4 +1,7 @@
-# Battle Ship Simulator
+<div align="center">
+  <h1 style="font-size: 48px;">BATTLE SHIP SIMULATOR</h1>
+  <h3 style="font-size: 48px;">simulates gameplay classic game..</h3>
+</div>
 
 Battle Ship Simulator is an application that simulates gameplay of the classic game known as Battleship. This application generates detailed step-by-step random matches represented graphically in the command line. At the end of each match, the winning player will be displayed, and in case of a tie, the match will be repeated.
 
@@ -8,15 +11,15 @@ Here are some screenshots that showcase the interface of Battle Ship Simulator:
 
 1. **Match Start:** In this screen, players can see the initial game configuration and instructions.
 
-   ![Match Start](ruta_de_la_imagen.png)
+   ![Match Start](https://raw.githubusercontent.com/santraez/battleship/main/assets/start.png)
 
 2. **Game Board:** During the match, the game board will be displayed, showing the positions of the ships and the shots taken.
 
-   ![Game Board](ruta_de_la_imagen.png)
+   ![Game Board](https://raw.githubusercontent.com/santraez/battleship/main/assets/board.png)
 
 3. **Match Result:** At the end of the match, the result will be shown, including the winning player and details of the moves made.
 
-   ![Match Result](ruta_de_la_imagen.png)
+   ![Match Result](https://raw.githubusercontent.com/santraez/battleship/main/assets/result.png)
 
 ## Technologies Used
 
@@ -37,8 +40,12 @@ That's it! Now you can enjoy Battle Ship Simulator in your own environment.
 
 ## Contributions
 
-If you wish to contribute to Battle Ship Simulator, you are more than welcome! Feel free to send pull requests or open issues in the GitHub repository: [repository link](enlace_del_repositorio).
+If you wish to contribute to Battle Ship Simulator, you are more than welcome! Feel free to send pull requests or open issues in the GitHub repository: [repository link](https://github.com/santraez/battleship).
+
+## Donation
+
+[Buy Me a Coffee](https://bmc.link/santraez) ☕ 
 
 ## License
 
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/santraez/battleship/blob/main/LICENSE) file.
