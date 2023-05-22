@@ -31,7 +31,7 @@ Battle Ship Simulator has been developed using the following technology:
 
 If you want to run Battle Ship Simulator on your local environment, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/tu_usuario/battle-ship-simulator.git`
+1. Clone this repository: `git clone https://github.com/santraez/battleship`
 2. Go to the project directory: `cd battle-ship-simulator`
 3. Install the dependencies: `npm install`
 4. Run the application: `node main.js`
